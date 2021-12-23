@@ -16,8 +16,7 @@ steps:
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
-    echo hello this is new commit new commit.
-    echo hello this is another commit that i don't know.
+    echo pranav hello this is a new commit.
   displayName: 'Run a multi-line script'
     
 
