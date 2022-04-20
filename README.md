@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coolpranav
+- 👋 Hi, I’m @pranav
 - 👀 I’m interested in CloudComputing,Linux,Automation
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Terraform and Ansible
